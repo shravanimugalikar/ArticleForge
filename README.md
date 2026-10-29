@@ -51,7 +51,7 @@ ArticleForge/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ArticleForge.git
+git clone https://github.com/shravanimugalikar/ArticleForge.git
 cd ArticleForge
 ```
 
@@ -91,6 +91,6 @@ The Gradio web interface will automatically launch in your browser at `http://12
 
 ---
 
-## 🛡️ License
+## Author
 
-This project is licensed under the [MIT License](LICENSE).
+Shravani Mugalikar
